@@ -47,6 +47,8 @@ The spiral pattern worked out quite good. Only the way the strokes were plotted 
 4. The lines may be parallel or vertical to the guide line
 5. Adjust your strokes to the music
 
+![](./iteration_1.png)
+
 Even after the first iteration there seems to be no improvement in performance. The word „strokes“ is a term that is a very spongy phrase and offers much space for interpretation. According to this experience the aim was to create the algorithm much clear without losing the playful character. Thus in the second iteration circles and points were placed. These also made it easier for different speeds in musical pieces. In addition the word "tools" was replaced by "pens or brushes" and a ductus was added. For the result to get a frame and not just end up with a Din A4 sheet, the sheet should be torn to a circle. The most important point in the algorithm was the hint for the user to observe the rhythm and volume of the piece of music and visualize it.
 
 
@@ -58,6 +60,8 @@ Even after the first iteration there seems to be no improvement in performance. 
 5. The lines may be parallel or vertical to the guide line
 6. Adjust your work in terms of rhythm and volume to the music
 
+![](./iteration_2.png)
+
 Many questions arose how large the circle should be. Therefore it was important to determine the size accurately. Since the users were still using simple tools such as pens the algorithm had to be contracted even more precisely. In the next iteration was an indication that the colors become blurred. The users were busy with the selection of the song in the entire process why it was important to specify the song. This allowed better comparisons.
 
 
@@ -67,6 +71,8 @@ Many questions arose how large the circle should be. Therefore it was important 
 3. Listen to this song (3:44 min): https://www.youtube.com/watch?v=zsyjS_vJfkw
 4. Draw points as well as circles from the inside to the outside in order to form a spiral
 5. Adjust your work to the music in terms of rhythm and volume
+
+![](./iteration_3.png)
 
 ## Conclusion
 The last iteration showed the best results. Above all point two and point three are decisive for this. The whole process shows how important it is to develop accurate instructions to produce similar results but do not look too arbitrary.
