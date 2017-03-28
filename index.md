@@ -60,7 +60,7 @@ Even after the first iteration there seems to be no improvement in performance. 
 5. The lines may be parallel or vertical to the guide line
 6. Adjust your work in terms of rhythm and volume to the music
 
-![](./iteration_2.png)
+![](assets/images/iteration_2.png)
 
 Many questions arose how large the circle should be. Therefore it was important to determine the size accurately. Since the users were still using simple tools such as pens the algorithm had to be contracted even more precisely. In the next iteration was an indication that the colors become blurred. The users were busy with the selection of the song in the entire process why it was important to specify the song. This allowed better comparisons.
 
@@ -72,7 +72,7 @@ Many questions arose how large the circle should be. Therefore it was important 
 4. Draw points as well as circles from the inside to the outside in order to form a spiral
 5. Adjust your work to the music in terms of rhythm and volume
 
-![](./iteration_3.png)
+![](assets/images/iteration_3.png)
 
 ## Conclusion
 The last iteration showed the best results. Above all point two and point three are decisive for this. The whole process shows how important it is to develop accurate instructions to produce similar results but do not look too arbitrary.
