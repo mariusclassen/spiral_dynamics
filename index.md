@@ -47,7 +47,7 @@ The spiral pattern worked out quite good. Only the way the strokes were plotted 
 4. The lines may be parallel or vertical to the guide line
 5. Adjust your strokes to the music
 
-![](./iteration_1.png)
+![](assets/images/iteration_1.png)
 
 Even after the first iteration there seems to be no improvement in performance. The word „strokes“ is a term that is a very spongy phrase and offers much space for interpretation. According to this experience the aim was to create the algorithm much clear without losing the playful character. Thus in the second iteration circles and points were placed. These also made it easier for different speeds in musical pieces. In addition the word "tools" was replaced by "pens or brushes" and a ductus was added. For the result to get a frame and not just end up with a Din A4 sheet, the sheet should be torn to a circle. The most important point in the algorithm was the hint for the user to observe the rhythm and volume of the piece of music and visualize it.
 
