@@ -38,7 +38,7 @@ The material, the tools and the music should be freely selectable.
 The results were very different. Unfortunately the users used only Din A4 paper on which they drew with fineliners.
 The spiral pattern worked out quite good. Only the way the strokes were plotted in shape, size and position looked very arbitrary and had no character of an algorithm.
 
-![](./ergebnis_1.png)
+![](./result_1.png)
 
 ## 1. Iteration
 1. Pick up a material and a writing tool
