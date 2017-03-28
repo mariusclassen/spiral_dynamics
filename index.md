@@ -18,6 +18,9 @@ In the first project the aim was to formulate an analogous algorithm precisely i
 The algorithm is derived from ammonite patterns. The drawing is individual with every ammonite. It begins very small in the middle and becomes larger in the shape of a spiral. This served as a starting point to visualize music.
 
 
+![](./ammonite.png)
+>[Source: Fractal Foundation](http://www.copyrightexpired.com/Heinrich_Harder/ammonoid.html)
+
 ## Idea
 The user starts with the drawing from the center and works outwards in a spiral shape. Using the music he determines the visualization in the form of size, posit ion, color and style.
 
@@ -34,6 +37,8 @@ The material,  the tools and the music should be freely selectable.
 ## First Result
 The results were very different. Unfortunately the users used only Din A4 paper on which they drew with Fineliners.
 On the other hand the spiral pattern worked very well. Only the way the strokes were plotted in shape, size and position looked very arbitrary and had no character of an algorithm.
+
+![](./ergebnis_1.png)
 
 ## 1. Iteration
 1. Pick up a material and a writing tool
