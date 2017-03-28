@@ -8,7 +8,7 @@ title: spiraldynamics
 type: project
 ---
 
-![](./splash.png)
+![](assets/images/splash.png)
 
 ## Assignment
 The aim of the first project was to develop an analogous algorithm in one sentence. This should be performed by at least 10 people. The analysis of the results lead to an improvement of the algorithm. The results should be similar in their appearance but also have individual characteristics. It has to be ensured, that the results can be compared and evaluated. Before the trail main basics had to be set. For example the used material, the tools and the format of the sheet. Constants and variables had to be defined and rewritten over and over again.
@@ -18,7 +18,7 @@ The aim of the first project was to develop an analogous algorithm in one senten
 The algorithm is inspired by the patterns of ammonites. The drawing is individual like every ammonite. It begins very small in the middle and becomes larger as it goes outward in the shape of a spiral. This was used to visualize music by using points strokes.
 
 
-![](./ammonite.png)
+![](assets/images/ammonite.png)
 >[Source: Fractal Foundation](http://www.copyrightexpired.com/Heinrich_Harder/ammonoid.html)
 
 ## Idea
@@ -38,7 +38,7 @@ The material, the tools and the music should be freely selectable.
 The results were very different. Unfortunately the users used only Din A4 paper on which they drew with fineliners.
 The spiral pattern worked out quite good. Only the way the strokes were plotted in shape, size and position looked very arbitrary and had no character of an algorithm.
 
-![](./result_1.png)
+![]assets/images/result_1.png)
 
 ## 1. Iteration
 1. Pick up a material and a writing tool
